@@ -1,0 +1,1 @@
+This directory is solely dedicated to assessing the impact of ambient light on the visible light positioning system, with all other forms of interference such as reflections, obstructions, photodetector (PD) and LED light angles being excluded. The position and frequency information of the LED lights can be found in the "LED_Information.csv" file located in the same directory.

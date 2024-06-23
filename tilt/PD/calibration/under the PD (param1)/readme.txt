@@ -1,0 +1,1 @@
+The data collection process here follows the method illustrated in Figure 11(a) of the paper. We gathered the optical intensity data at four various heights ( 2 cm, 65 cm, 90 cm, and 150 cm) directly beneath each LED light. This data is intended for estimating the parameter [(m_i+1)A_R]/2pi using the Eq (3).The height of LED1~LED5 is 2.829 m, 2.831m, 2.838m, 2.838m, and 2.828 m. 

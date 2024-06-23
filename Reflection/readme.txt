@@ -1,0 +1,1 @@
+This folder primarily stores data related to wall reflection. A small test setup with dimensions of 1m x 1m x 1m was constructed. 
